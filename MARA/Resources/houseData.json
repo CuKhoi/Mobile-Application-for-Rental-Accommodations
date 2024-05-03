@@ -1,0 +1,83 @@
+[
+    {
+        "name": "E TOWN Tan Binh",
+        "id": 596703,
+        "coordinates": {
+            "longitude": 106.64513798408643,
+            "latitude": 10.801916356927123
+        },
+        "address": "46, Binh Gia St., 13 Wr. , Tan Binh Dist., HCM city                      ",
+        "monthlyPay": "4,200,000",
+        "score": 3.4,
+        "review": 32,
+        "bed": 1,
+        "bath": 1,
+        "area": 25,
+        "kitchen": 0,
+        "ac": 1,
+        "wifi": 0,
+        "parking": 1,
+        "pool": 0,
+        "elevator": 0,
+        "lessor": "Tung.CHDV",
+        "document": "You will need provide your citizen ID or longterm-staying visa, income verification, bank statement and past tax returns.",
+        "deposit": "You are required to pay 2 month’s rent as deposit. This deposit is returned to you when the house is vacated.",
+        "pet": "Pets are not allowed",
+        "addPolicy": "Electricity bill and water bill will be send by landlord and pay to landlord. Otherwise, other bills such as internet bill are payed independently.",
+        "imageName": "house1"
+    },
+    {
+        "name": "DUPLEX Binh Thanh",
+        "id": 638092,
+        "coordinates": {
+            "longitude": 106.6920593988586,
+            "latitude": 10.815672823545476
+        },
+        "address": "207/20, Nguyen Van Dau St., 11 Wr., Binh Thanh Dist., HCM city",
+        "monthlyPay": "5,300,000",
+        "score": 4.2,
+        "review": 43,
+        "bed": 1,
+        "bath": 1,
+        "area": 30.0,
+        "kitchen": 0,
+        "ac": 1,
+        "wifi": 1,
+        "parking": 1,
+        "pool": 0,
+        "elevator": 1,
+        "lessor": "Nguyen An Nhien",
+        "document": "You just need provide your citizen ID or longterm-staying visa.",
+        "deposit": "You are required to pay 3 month’s rent as deposit. This deposit is returned to you when the house is vacated.",
+        "pet": "Pets are allowed",
+        "addPolicy": "Electricity, water adn internet bill will be send by landlord and pay to landlord.",
+        "imageName": "house2"
+    },
+    {
+        "name": "BCON mien dong CH 2PN2WC",
+        "id": 38950265,
+        "coordinates": {
+            "longitude": 106.80966398870798,
+            "latitude": 10.876965454249078
+        },
+        "address": "69, Tan Lap St., Dong Hoa Wr., Di An city, Binh Duong Prov.     ",
+        "monthlyPay": "6,000,000",
+        "score": 4.2,
+        "review": 43,
+        "bed": 2,
+        "bath": 2,
+        "area": 55.0,
+        "kitchen": 1,
+        "ac": 2,
+        "wifi": 0,
+        "parking": 1,
+        "pool": 1,
+        "elevator": 1,
+        "lessor": "Gia Han",
+        "document": "You just need provide your citizen ID",
+        "deposit": "You are required to pay 3 month’s rent as deposit. This deposit is returned to you when the house is vacated.",
+        "pet": "Pets are not allowed",
+        "addPolicy": "Electricity, water adn internet bill will be send by landlord and pay to landlord.",
+        "imageName": "house3"
+    }
+]

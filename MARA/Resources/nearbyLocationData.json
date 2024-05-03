@@ -1,0 +1,57 @@
+[
+    {
+        "name": "HCMC University of Industry and Trade (HUIT)",
+        "id": 100001,
+        "coordinates": {
+            "longitude": 106.62900181466769,
+            "latitude": 10.807902296684393
+        },
+        "type": "school"
+    },
+    {
+        "name": "Than Nhan Trung Elementary school",
+        "id": 100002,
+        "coordinates": {
+            "longitude": 106.6406680660581,
+            "latitude": 10.806648233979839
+        },
+        "type": "school"
+    },
+    {
+        "name": "Truong Chinh Secondary school",
+        "id": 100003,
+        "coordinates": {
+            "longitude": 106.64760012684845,
+            "latitude": 10.796748387817633
+        },
+        "type": "school"
+    },
+    {
+        "name": "Nguyen Chi Thanh High school",
+        "id": 100004,
+        "coordinates": {
+            "longitude": 106.64612034787474,
+            "latitude": 10.806635954580022
+        },
+        "type": "school"
+    },
+    {
+        "name": "Van Lang University - 2nd buiding",
+        "id": 100005,
+        "coordinates": {
+            "longitude": 106.69439556016877,
+            "latitude": 10.812904504272577
+        },
+        "type": "school"
+    },
+    {
+        "name": "Nguyen Van Be Secondary school",
+        "id": 100006,
+        "coordinates": {
+            "longitude": 106.69157526028033,
+            "latitude": 10.81139596175102
+        },
+        "type": "school"
+    }
+]
+
